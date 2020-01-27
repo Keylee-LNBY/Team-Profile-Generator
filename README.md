@@ -1,0 +1,2 @@
+# Team-Profile-Generator
+A team generator command line application that will prompt the user for information about the team manager and team members. The user can input any number of team members, and entries can be a mix. This application is modular and was built using unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
