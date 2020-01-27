@@ -11,6 +11,11 @@ class Employee {
         this.email = email;
         this.title = title;
     }
+
+    //Function to return Name
+    getName() {
+        return this.name
+    }
 };
 
 
