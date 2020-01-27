@@ -12,10 +12,16 @@ class Employee {
         this.title = title;
     }
 
-    //Function to return Name
+    //Function to return employee's Name
     getName() {
         return this.name
     }
+
+    //Function to return employee's ID #
+    getId() {
+        return this.id
+    }
+
 };
 
 
