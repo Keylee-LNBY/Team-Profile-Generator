@@ -22,6 +22,10 @@ class Employee {
         return this.id
     }
 
+    getEmail() {
+        return this.email
+    }
+    
 };
 
 
