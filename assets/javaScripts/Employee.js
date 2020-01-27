@@ -12,20 +12,25 @@ class Employee {
         this.title = title;
     }
 
-    //Function to return employee's Name
+    //Return employee's Name
     getName() {
         return this.name
     }
 
-    //Function to return employee's ID #
+    //Returns employee's ID #
     getId() {
         return this.id
     }
 
+    //Returns employee's Email
     getEmail() {
         return this.email
     }
-    
+
+    //Confirms that parameter is an Employee
+    getRole() {
+        return "Employee";
+    }
 };
 
 
