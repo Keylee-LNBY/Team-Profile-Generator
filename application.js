@@ -11,3 +11,6 @@ const Intern = require("./assets/javaScripts/Intern");
 const outputPath = path.resolve(__dirname, "output", "team.html");
 
 const render = require("./assets/javaScripts/htmlRenderer");
+
+//Start Program
+program.start();
