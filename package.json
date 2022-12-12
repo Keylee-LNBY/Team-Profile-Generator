@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Keylee-LNBY/Team-Profile-Generator#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "inquirer": "^6.5.2",
     "path": "^0.12.7"
